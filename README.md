@@ -10,7 +10,7 @@
 
 ## How-To
 
-Use examples to see how to use it. Examples are inspired by http://www.haskellforall.com/2014/02/streaming-logging.html. Follow along that tutorial if you feel like needing a thorough explanation.
+Have a look at examples to see how to use it. Examples are inspired by http://www.haskellforall.com/2014/02/streaming-logging.html. Follow along that tutorial if you feel like needing a thorough explanation.
 
 Each example is a directory with intructions in corresponding README.
 

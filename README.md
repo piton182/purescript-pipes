@@ -14,4 +14,4 @@ Have a look at examples to see how to use it. Examples are inspired by http://ww
 
 Each example is a directory with intructions in corresponding README.
 
-- [piped-randomInt](https://github.com/piton182/purescript-pipes/blob/pipedRandomInt/examples/piped-randomInt/README.md)
+- [piped-randomInt](https://github.com/piton182/purescript-pipes/blob/pipedRandomInt/examples/piped-randomInt/)

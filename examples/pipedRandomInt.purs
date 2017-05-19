@@ -1,4 +1,4 @@
-module Main2 where
+module Main where
 
 import Prelude
 import Control.Monad.Eff (Eff)
